@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=3LVwTukzFu8&list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHH
 
 ### Working video guide
 
-https://github.com/yudish12/first-react-native-app/assets/82305974/c7c7654d-dc72-4166-8d87-388dd8a0421e
+https://github.com/yudish12/first-react-native-app/assets/82305974/af8ff631-ba08-4b86-b0a8-f81efe67a047
