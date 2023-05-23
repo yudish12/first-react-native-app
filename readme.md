@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=3LVwTukzFu8&list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHH
 3)now clone repo in your ide and use npm install to install all dependencies and use npm run android script to run the app the app will be created with the name first app in your device and you are ready to go
 
 ### Working video guide
+
+https://github.com/yudish12/first-react-native-app/assets/82305974/c7c7654d-dc72-4166-8d87-388dd8a0421e
